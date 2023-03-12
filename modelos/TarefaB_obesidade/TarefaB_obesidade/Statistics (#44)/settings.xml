@@ -10,7 +10,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="compute_median" type="xboolean" value="false"/>
+        <entry key="compute_median" type="xboolean" value="true"/>
         <config key="filter_nominal_columns_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_columnfilter"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -23,7 +23,7 @@
                 <entry key="1" type="xstring" value="Weight"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="18"/>
+                <entry key="array-size" type="xint" value="20"/>
                 <entry key="0" type="xstring" value="rowID"/>
                 <entry key="1" type="xstring" value="Gender"/>
                 <entry key="2" type="xstring" value="Age"/>
@@ -42,6 +42,8 @@
                 <entry key="15" type="xstring" value="MTRANS"/>
                 <entry key="16" type="xstring" value="NObeyesdad"/>
                 <entry key="17" type="xstring" value="Year"/>
+                <entry key="18" type="xstring" value="Height (rounded)"/>
+                <entry key="19" type="xstring" value="Weight (rounded)"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
             <config key="name_pattern">
@@ -71,7 +73,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="num_nominal-values_output" type="xint" value="1000"/>
+        <entry key="num_nominal-values_output" type="xint" value="10000"/>
         <config key="enable HiLite_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -114,10 +116,6 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Maximum number of unique possible values (1000) exceeds for column(s): &quot;Height&quot;,&quot;Weight&quot;"/>
-    </config>
     <entry key="factory" type="xstring" value="org.knime.base.node.stats.viz.extended.ExtendedStatisticsNodeFactory"/>
     <entry key="node-name" type="xstring" value="Statistics"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Statistic Nodes"/>
@@ -151,12 +149,12 @@
             <entry key="index" type="xint" value="3"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 0, Cols: 6"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1574, Cols: 6"/>
             <entry key="port_dir_location" type="xstring" value="port_3"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b56daa0c-9833-4b77-bd4c-276cb1d32650"/>
+        <entry key="file_store_id" type="xstring" value="de9e41c8-0028-4477-a1b7-546c0f6b359f"/>
     </config>
 </config>
