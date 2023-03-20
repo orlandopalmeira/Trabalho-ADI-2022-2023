@@ -6,9 +6,9 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <entry key="palette_option" type="xstring" value="set_1"/>
         <entry key="selected_column" type="xstring" value="CH2O"/>
         <entry key="is_nominal" type="xboolean" value="true"/>
-        <entry key="palette_option" type="xstring" value="set_1"/>
     </config>
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="CH2O"/>
@@ -60,6 +60,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e3520302-ee14-4dab-8ca9-94ec5ad5f81f"/>
+        <entry key="file_store_id" type="xstring" value="a7b00ce0-65fb-452c-af9f-b20a8f0d23e4"/>
     </config>
 </config>

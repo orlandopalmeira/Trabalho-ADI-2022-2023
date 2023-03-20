@@ -6,9 +6,9 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <entry key="palette_option" type="xstring" value="custom_set"/>
         <entry key="selected_column" type="xstring" value="family_history_with_overweight"/>
         <entry key="is_nominal" type="xboolean" value="true"/>
-        <entry key="palette_option" type="xstring" value="custom_set"/>
         <entry key="no" type="xint" value="-1893860"/>
         <entry key="yes" type="xint" value="-13393876"/>
         <config key="values">
@@ -77,6 +77,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="fa571133-e667-4650-9873-21264eae31d2"/>
+        <entry key="file_store_id" type="xstring" value="15a71823-41ee-458f-a82d-4e96004048c8"/>
     </config>
 </config>

@@ -6,9 +6,9 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <entry key="palette_option" type="xstring" value="custom_set"/>
         <entry key="selected_column" type="xstring" value="Gender"/>
         <entry key="is_nominal" type="xboolean" value="true"/>
-        <entry key="palette_option" type="xstring" value="custom_set"/>
         <entry key="Female" type="xint" value="-294798"/>
         <entry key="Male" type="xint" value="-14714700"/>
         <config key="values">
@@ -77,6 +77,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="9a97e861-e1cd-4fdc-b825-c3a966b3663d"/>
+        <entry key="file_store_id" type="xstring" value="eaf71bc6-99f2-4661-b93d-a7fd1d162871"/>
     </config>
 </config>
