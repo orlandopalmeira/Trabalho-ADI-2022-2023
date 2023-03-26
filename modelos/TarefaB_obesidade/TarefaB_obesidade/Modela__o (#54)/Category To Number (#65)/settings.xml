@@ -44,7 +44,7 @@
         </config>
         <entry key="append_columns" type="xboolean" value="true"/>
         <entry key="column_suffix" type="xstring" value=" (to number)"/>
-        <entry key="start_index" type="xint" value="0"/>
+        <entry key="start_index" type="xint" value="1"/>
         <entry key="increment" type="xint" value="1"/>
         <entry key="max_categories" type="xint" value="100"/>
         <config key="default_value">
@@ -64,10 +64,10 @@
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
     <entry key="node-bundle-version" type="xstring" value="4.7.0.v202301251625"/>
-    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="4.7.1.v202301311311"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Category To Number"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -92,6 +92,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="37d46ee6-242c-4483-8bc4-5ac93c6a933a"/>
+        <entry key="file_store_id" type="xstring" value="0e765416-7e79-4ade-a842-d4dd079eb507"/>
     </config>
 </config>
