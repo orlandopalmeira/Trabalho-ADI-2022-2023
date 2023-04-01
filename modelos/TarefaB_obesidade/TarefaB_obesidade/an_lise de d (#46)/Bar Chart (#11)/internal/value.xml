@@ -23,7 +23,7 @@
         <entry key="value_5" type="xstring" value=""/>
         <entry key="key_6" type="xstring" value="chartType"/>
         <entry key="class_6" type="xstring" value="java.lang.String"/>
-        <entry key="value_6" type="xstring" value="Grouped"/>
+        <entry key="value_6" type="xstring" value="Stacked"/>
         <entry key="key_7" type="xstring" value="title"/>
         <entry key="class_7" type="xstring" value="java.lang.String"/>
         <entry key="value_7" type="xstring" value="Bar Chart"/>
