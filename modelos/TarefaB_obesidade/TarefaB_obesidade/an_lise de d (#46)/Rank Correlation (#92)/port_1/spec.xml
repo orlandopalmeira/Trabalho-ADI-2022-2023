@@ -12,7 +12,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="21"/>
+                <entry key="array-size" type="xint" value="22"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -139,6 +139,12 @@
                         <entry key="StringCell" type="xstring" value="Height (rounded)"/>
                     </config>
                 </config>
+                <config key="21">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Weight (rounded)"/>
+                    </config>
+                </config>
             </config>
         </config>
         <config key="column_properties"/>
@@ -154,7 +160,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="21"/>
+                <entry key="array-size" type="xint" value="22"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -281,6 +287,12 @@
                         <entry key="StringCell" type="xstring" value="Weight (rounded)"/>
                     </config>
                 </config>
+                <config key="21">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Age_binned"/>
+                    </config>
+                </config>
             </config>
         </config>
         <config key="column_properties"/>
@@ -298,7 +310,7 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="-0.32080671869381905"/>
+                    <entry key="DoubleCell" type="xdouble" value="-0.9838385846074608"/>
                 </config>
             </config>
             <config key="upper_bound">

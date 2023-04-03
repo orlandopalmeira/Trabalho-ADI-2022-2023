@@ -42,13 +42,13 @@
                 <path d="M623 165 L727 165 L727 182 L623 182 L623 165 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
-                <path d="M446 180 L568 180 L568 197 L446 197 L446 180 Z"/>
+                <path d="M447 180 L566 180 L566 197 L447 197 L447 180 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
                 <path d="M482 345 L553 345 L553 362 L482 362 L482 345 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
-                <path d="M192 205 L357 205 L357 222 L192 222 L192 205 Z"/>
+                <path d="M192 205 L354 205 L354 222 L192 222 L192 205 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath13">
                 <path d="M15 140 L91 140 L91 157 L15 157 L15 140 Z"/>
@@ -168,7 +168,7 @@
                   xml:space="preserve">Visualização de Colunas</text><text x="624"
                   y="177" clip-path="url(#clipPath9)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Análise de Dados</text><text x="447"
+                  xml:space="preserve">Análise de Dados</text><text x="448"
                   y="192" clip-path="url(#clipPath10)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Nodos de Conversão</text><text x="483"
@@ -313,13 +313,14 @@ klkjAAAAAElFTkSuQmCC" xlink:actuate="onLoad"/>
                    xlink:show="embed" xlink:type="simple"
                    clip-path="url(#clipPath15)" preserveAspectRatio="none"
                    font-weight="normal" height="16" x="0" y="0"
-                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4Xp1TUQrC
-MAwt+GGF4YfgzTyDeA4RvIvXkPm3+iV4iJ1gY4tJ2sy0tkN9UEqTl5c0TY1RgIep
-4G6v4GyHC9Tq2I5+zY8Ajd0jceSAxj5xPw9ufcTAUziT0Ei8NFaCidCCq7aR72IW
-vKPd+znBW4TL9pnbyRgwuA2IgCCIjNN18FD77HFmQl6AK6Fq62CwPd1RkwQ5AULo
-Se8PpIaNSjiMogA1FuP8gctZ7cRJQXplBZAfC6gKKECvKUohraAr9aCEtAfFV8hB
-vcLNG2bmIAfiMV+P9dwkCqJJdMtD6v/8C9wo7PY3f0EQrkM9+f03/osXAL0kvqbc
-MocAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJ0lEQVR4XmNgGFLg
+9FMtw1NPde4B8aOTT3Sq0eXxgv//GZiAGm8B8X8ofoiuBi849Uy7CajpL5IBt9DV
+4ATnnhuKAjW8RNL88/RTnVK4gjPPtOWAgvNOPtUuW/U/lBlJLxgA5XYjaf5/6onO
+ZaCXGJEVnAdLPNP5dfqZzhZkQ04803EDyn1BMuD9mcda5nDNIAAUfIyk4AcQbwbZ
+sP+/A8sp1IADYt2NKJpBAOifnUDJf8iGnHymu/rkU50uVHHdp4cf6gqi62e4elWb
+DajgLLohQIPfwflA7wH9XoyuFw7OPDPmAiq6hGQAOr6KEnDYANgQYAhj0fzx9GNt
+M3T1WMHFF3rcp55q30Q1AEvA4QNn7hrzA/1/Bqj5PdBbd068VeFDV0M1AABYEhF4
+22GOSwAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
             <polygon text-rendering="optimizeLegibility"
                      clip-path="url(#clipPath26)"
                      points=" 481 149 490 153 481 158" stroke="none"/>
@@ -454,7 +455,7 @@ jl8nXjvRXPsM2bUA7JJuyuP7diUAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
                   xml:space="preserve">Visualização de Colunas</text><text x="624"
                   y="177" clip-path="url(#clipPath9)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Análise de Dados</text><text x="447"
+                  xml:space="preserve">Análise de Dados</text><text x="448"
                   y="192" clip-path="url(#clipPath10)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Nodos de Conversão</text><text x="483"
@@ -586,13 +587,14 @@ klkjAAAAAElFTkSuQmCC" xlink:actuate="onLoad"/>
                    xlink:show="embed" xlink:type="simple"
                    clip-path="url(#clipPath15)" preserveAspectRatio="none"
                    font-weight="normal" height="16" x="0" y="0"
-                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4Xp1TUQrC
-MAwt+GGF4YfgzTyDeA4RvIvXkPm3+iV4iJ1gY4tJ2sy0tkN9UEqTl5c0TY1RgIep
-4G6v4GyHC9Tq2I5+zY8Ajd0jceSAxj5xPw9ufcTAUziT0Ei8NFaCidCCq7aR72IW
-vKPd+znBW4TL9pnbyRgwuA2IgCCIjNN18FD77HFmQl6AK6Fq62CwPd1RkwQ5AULo
-Se8PpIaNSjiMogA1FuP8gctZ7cRJQXplBZAfC6gKKECvKUohraAr9aCEtAfFV8hB
-vcLNG2bmIAfiMV+P9dwkCqJJdMtD6v/8C9wo7PY3f0EQrkM9+f03/osXAL0kvqbc
-MocAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJ0lEQVR4XmNgGFLg
+9FMtw1NPde4B8aOTT3Sq0eXxgv//GZiAGm8B8X8ofoiuBi849Uy7CajpL5IBt9DV
+4ATnnhuKAjW8RNL88/RTnVK4gjPPtOWAgvNOPtUuW/U/lBlJLxgA5XYjaf5/6onO
+ZaCXGJEVnAdLPNP5dfqZzhZkQ04803EDyn1BMuD9mcda5nDNIAAUfIyk4AcQbwbZ
+sP+/A8sp1IADYt2NKJpBAOifnUDJf8iGnHymu/rkU50uVHHdp4cf6gqi62e4elWb
+DajgLLohQIPfwflA7wH9XoyuFw7OPDPmAiq6hGQAOr6KEnDYANgQYAhj0fzx9GNt
+M3T1WMHFF3rcp55q30Q1AEvA4QNn7hrzA/1/Bqj5PdBbd068VeFDV0M1AABYEhF4
+22GOSwAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
             <polygon points=" 481 149 490 153 481 158"
                      clip-path="url(#clipPath26)" stroke="none"/>
             <polygon points=" 522 149 531 153 522 158"
@@ -664,24 +666,27 @@ M3T1WMHFF3rcp55q30Q1AEvA4QNn7hrzA/1/Bqj5PdBbd068VeFDV0M1AABYEhF4
 6RZlbTMt7/YutHoKokF8kDhYYu56q6/Hb1n8h2EQH6wApBJZAoZB4gwgo9AlQBgk
 jl8nXjvRXPsM2bUA7JJuyuP7diUAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
         </g>
-        <g fill="rgb(150,150,150)" text-rendering="optimizeLegibility"
-           stroke-width="2" font-family="&apos;Segoe UI&apos;"
-           stroke-linecap="butt" stroke="rgb(150,150,150)">
-            <path fill="none"
-                  d="M298 178 C300 178 304 178 306 178 C372 178 413 318 479 318 C481 318 485 318 487 318"
-                  fill-rule="evenodd" clip-path="url(#clipPath35)"/>
+        <g fill="rgb(75,75,75)" text-rendering="optimizeLegibility"
+           stroke-width="3" font-family="&apos;Segoe UI&apos;"
+           stroke-linecap="butt" stroke="rgb(75,75,75)">
             <path fill="none"
                   d="M298 178 C300 178 304 178 306 178 C356 178 422 153 472 153 C474 153 478 153 480 153"
-                  clip-path="url(#clipPath35)" fill-rule="evenodd"/>
+                  fill-rule="evenodd" clip-path="url(#clipPath35)"/>
+            <path fill="none"
+                  d="M298 178 C300 178 304 178 306 178 C372 178 413 318 479 318 C481 318 485 318 487 318"
+                  stroke-width="2" clip-path="url(#clipPath35)"
+                  fill-rule="evenodd" stroke="rgb(150,150,150)"/>
+            <path fill="none"
+                  d="M78 178 C80 178 84 178 86 178 C129 178 78 38 121 38 C156 38 204 38 239 38 C241 38 245 38 247 38"
+                  stroke-width="2" clip-path="url(#clipPath35)"
+                  fill-rule="evenodd" stroke="rgb(150,150,150)"/>
             <path fill="none"
                   d="M531 153 C533 153 537 153 539 153 C569 153 609 138 639 138 C641 138 645 138 647 138"
                   clip-path="url(#clipPath35)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M78 178 C80 178 84 178 86 178 C131 178 194 178 239 178 C241 178 245 178 247 178"
-                  clip-path="url(#clipPath35)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M78 178 C80 178 84 178 86 178 C129 178 78 38 121 38 C156 38 204 38 239 38 C241 38 245 38 247 38"
-                  clip-path="url(#clipPath35)" fill-rule="evenodd"/>
+                  stroke-width="2" clip-path="url(#clipPath35)"
+                  fill-rule="evenodd" stroke="rgb(150,150,150)"/>
         </g>
     </g>
 </svg>

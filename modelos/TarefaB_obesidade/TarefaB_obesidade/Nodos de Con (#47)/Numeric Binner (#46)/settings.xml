@@ -6,30 +6,6 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <config key="Age">
-            <config key="Jovem_0">
-                <entry key="bin_name" type="xstring" value="Jovem"/>
-                <entry key="left_open" type="xboolean" value="true"/>
-                <entry key="left_value" type="xdouble" value="-Infinity"/>
-                <entry key="right_open" type="xboolean" value="false"/>
-                <entry key="right_value" type="xdouble" value="21.0"/>
-            </config>
-            <config key="Jovem Adulto_1">
-                <entry key="bin_name" type="xstring" value="Jovem Adulto"/>
-                <entry key="left_open" type="xboolean" value="true"/>
-                <entry key="left_value" type="xdouble" value="21.0"/>
-                <entry key="right_open" type="xboolean" value="true"/>
-                <entry key="right_value" type="xdouble" value="30.0"/>
-            </config>
-            <config key="Adulto_2">
-                <entry key="bin_name" type="xstring" value="Adulto"/>
-                <entry key="left_open" type="xboolean" value="false"/>
-                <entry key="left_value" type="xdouble" value="30.0"/>
-                <entry key="right_open" type="xboolean" value="true"/>
-                <entry key="right_value" type="xdouble" value="Infinity"/>
-            </config>
-        </config>
-        <entry key="Age_is_appended" type="xstring" isnull="true" value=""/>
         <config key="Year">
             <config key="1955-1965_0">
                 <entry key="bin_name" type="xstring" value="1955-1965"/>
@@ -68,10 +44,34 @@
             </config>
         </config>
         <entry key="Year_is_appended" type="xstring" isnull="true" value=""/>
+        <config key="Age">
+            <config key="Jovem_0">
+                <entry key="bin_name" type="xstring" value="Jovem"/>
+                <entry key="left_open" type="xboolean" value="true"/>
+                <entry key="left_value" type="xdouble" value="-Infinity"/>
+                <entry key="right_open" type="xboolean" value="false"/>
+                <entry key="right_value" type="xdouble" value="21.0"/>
+            </config>
+            <config key="Jovem Adulto_1">
+                <entry key="bin_name" type="xstring" value="Jovem Adulto"/>
+                <entry key="left_open" type="xboolean" value="true"/>
+                <entry key="left_value" type="xdouble" value="21.0"/>
+                <entry key="right_open" type="xboolean" value="true"/>
+                <entry key="right_value" type="xdouble" value="30.0"/>
+            </config>
+            <config key="Adulto_2">
+                <entry key="bin_name" type="xstring" value="Adulto"/>
+                <entry key="left_open" type="xboolean" value="false"/>
+                <entry key="left_value" type="xdouble" value="30.0"/>
+                <entry key="right_open" type="xboolean" value="true"/>
+                <entry key="right_value" type="xdouble" value="Infinity"/>
+            </config>
+        </config>
+        <entry key="Age_is_appended" type="xstring" value="Age_binned"/>
         <config key="binned_columns">
             <entry key="array-size" type="xint" value="2"/>
-            <entry key="0" type="xstring" value="Age"/>
-            <entry key="1" type="xstring" value="Year"/>
+            <entry key="0" type="xstring" value="Year"/>
+            <entry key="1" type="xstring" value="Age"/>
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -95,12 +95,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 2111, Cols: 22"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2111, Cols: 23"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1bb9136d-f8de-4f12-8445-63596c94d18d"/>
+        <entry key="file_store_id" type="xstring" value="b9502de1-14ff-4156-b090-acd91ce01559"/>
     </config>
 </config>
