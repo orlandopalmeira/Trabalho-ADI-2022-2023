@@ -22,7 +22,7 @@
         <entry key="diagonalColor" type="xstring" value="#A6C0C5"/>
         <entry key="displayFloatAsPercent" type="xboolean" value="true"/>
         <entry key="displayFullscreenButton" type="xboolean" value="true"/>
-        <entry key="displayClassStatsTable" type="xboolean" value="false"/>
+        <entry key="displayClassStatsTable" type="xboolean" value="true"/>
         <entry key="classTruePositives" type="xboolean" value="true"/>
         <entry key="classFalsePositives" type="xboolean" value="true"/>
         <entry key="classTrueNegatives" type="xboolean" value="true"/>
@@ -115,6 +115,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="08d0f688-a916-4067-8aee-2168736e60c9"/>
+        <entry key="file_store_id" type="xstring" value="9824561c-7d92-44a4-8bd7-6fd49d945768"/>
     </config>
 </config>

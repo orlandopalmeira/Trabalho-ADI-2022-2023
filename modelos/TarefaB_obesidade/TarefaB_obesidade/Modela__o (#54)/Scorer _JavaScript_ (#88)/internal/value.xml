@@ -5,7 +5,7 @@
     <entry key="displayTotalRows" type="xboolean" value="false"/>
     <entry key="displayConfusionMatrixRates" type="xboolean" value="true"/>
     <entry key="displayFloatAsPercent" type="xboolean" value="true"/>
-    <entry key="displayClassStatsTable" type="xboolean" value="false"/>
+    <entry key="displayClassStatsTable" type="xboolean" value="true"/>
     <entry key="displayOverallStats" type="xboolean" value="true"/>
     <entry key="displayLabels" type="xboolean" value="true"/>
     <entry key="displayClassNature" type="xboolean" value="true"/>
