@@ -6,9 +6,9 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <entry key="palette_option" type="xstring" value="custom_set"/>
         <entry key="selected_column" type="xstring" value="salary"/>
         <entry key="is_nominal" type="xboolean" value="true"/>
-        <entry key="palette_option" type="xstring" value="custom_set"/>
         <entry key="&lt;=50K" type="xint" value="-1893860"/>
         <entry key="&gt;50K" type="xint" value="-13393876"/>
         <config key="values">
@@ -77,6 +77,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="fd6298ec-1731-40f4-b2f8-476ed16c9153"/>
+        <entry key="file_store_id" type="xstring" value="c417a25b-a41e-42ab-8eb8-3ede7eee83d7"/>
     </config>
 </config>

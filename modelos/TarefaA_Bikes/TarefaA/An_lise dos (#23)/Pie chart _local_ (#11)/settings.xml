@@ -21,16 +21,16 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="PieColName" type="xstring" value="salary"/>
-        <config key="aggrColumn_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="aggrColumn" type="xstring" value="fnlwgt"/>
         <config key="aggrMethod_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="aggrMethod" type="xstring" value="COUNT"/>
+        <config key="aggrColumn_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="aggrColumn" type="xstring" value="fnlwgt"/>
     </config>
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="salary pie chart"/>
@@ -65,6 +65,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e4dfd5fa-f8b8-4488-8560-79e607e3f4a6"/>
+        <entry key="file_store_id" type="xstring" value="9d418266-1cee-46d7-8111-2b3f8678c005"/>
     </config>
 </config>

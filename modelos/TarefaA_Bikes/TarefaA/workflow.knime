@@ -8,10 +8,10 @@
         <entry key="authored-by" type="xstring" value="Pc"/>
         <entry key="authored-when" type="xstring" value="2023-04-04 15:15:09 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="anari"/>
-        <entry key="lastEdited-when" type="xstring" value="2023-04-05 20:54:08 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2023-04-05 23:55:51 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <config key="workflow_credentials"/>
     <config key="annotations">
         <config key="annotation_0">
@@ -370,6 +370,12 @@
         </config>
         <config key="connection_5">
             <entry key="sourceID" type="xint" value="18"/>
+            <entry key="destID" type="xint" value="32"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="0"/>
+        </config>
+        <config key="connection_6">
+            <entry key="sourceID" type="xint" value="18"/>
             <entry key="destID" type="xint" value="14"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
@@ -377,12 +383,6 @@
             <config key="ui_settings">
                 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
             </config>
-        </config>
-        <config key="connection_6">
-            <entry key="sourceID" type="xint" value="18"/>
-            <entry key="destID" type="xint" value="32"/>
-            <entry key="sourcePort" type="xint" value="1"/>
-            <entry key="destPort" type="xint" value="0"/>
         </config>
         <config key="connection_7">
             <entry key="sourceID" type="xint" value="19"/>

@@ -14,8 +14,8 @@
                 <entry key="right_open" type="xboolean" value="true"/>
                 <entry key="right_value" type="xdouble" value="35.0"/>
             </config>
-            <config key="adulto_1">
-                <entry key="bin_name" type="xstring" value="adulto"/>
+            <config key="adultos_1">
+                <entry key="bin_name" type="xstring" value="adultos"/>
                 <entry key="left_open" type="xboolean" value="false"/>
                 <entry key="left_value" type="xdouble" value="35.0"/>
                 <entry key="right_open" type="xboolean" value="true"/>
@@ -76,6 +76,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="9a7fe861-057a-4af9-8d4a-afbee80159eb"/>
+        <entry key="file_store_id" type="xstring" value="b71802ad-a5bc-4962-a596-a89f6eb0c067"/>
     </config>
 </config>

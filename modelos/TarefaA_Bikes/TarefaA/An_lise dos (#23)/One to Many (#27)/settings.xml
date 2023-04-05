@@ -43,10 +43,6 @@
                 </config>
             </config>
         </config>
-        <config key="removeSources_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
         <entry key="removeSources" type="xboolean" value="false"/>
     </config>
     <config key="nodeAnnotation">
@@ -90,6 +86,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="cecd18b7-1a99-4b0a-adb7-43f03b4e8971"/>
+        <entry key="file_store_id" type="xstring" value="823cd170-9824-45be-ba7c-dc9836d6cc05"/>
     </config>
 </config>
