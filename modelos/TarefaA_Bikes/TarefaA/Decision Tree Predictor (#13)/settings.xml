@@ -11,21 +11,21 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="UseGainRatio" type="xint" value="20000"/>
-        <config key="change prediction_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="change prediction" type="xboolean" value="false"/>
-        <config key="prediction column name_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-            <entry key="EnabledStatus" type="xboolean" value="false"/>
-        </config>
-        <entry key="prediction column name" type="xstring" value="Prediction (salary)"/>
         <config key="ShowDistribution_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="ShowDistribution" type="xboolean" value="false"/>
+        <config key="prediction column name_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="false"/>
+        </config>
+        <entry key="prediction column name" type="xstring" value="Prediction (salary)"/>
+        <config key="change prediction_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="change prediction" type="xboolean" value="false"/>
         <config key="class probability suffix_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="false"/>
@@ -59,6 +59,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="55564054-ba1c-4149-9174-d72300b9ff04"/>
+        <entry key="file_store_id" type="xstring" value="be88e1cc-bfbe-4a9a-8658-ea388e29cd80"/>
     </config>
 </config>
