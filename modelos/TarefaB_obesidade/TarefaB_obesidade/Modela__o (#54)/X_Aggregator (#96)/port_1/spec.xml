@@ -74,7 +74,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="2"/>
+                <entry key="array-size" type="xint" value="4"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -84,7 +84,19 @@
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Médio"/>
+                    </config>
+                </config>
+                <config key="2">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="Alto"/>
+                    </config>
+                </config>
+                <config key="3">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Muito-Alto"/>
                     </config>
                 </config>
             </config>
@@ -646,7 +658,7 @@
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Normal_Weight"/>
+                        <entry key="StringCell" type="xstring" value="Insufficient_Weight"/>
                     </config>
                 </config>
                 <config key="2">
@@ -658,19 +670,19 @@
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Overweight_Level_I"/>
+                        <entry key="StringCell" type="xstring" value="Normal_Weight"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Obesity_Type_III"/>
+                        <entry key="StringCell" type="xstring" value="Overweight_Level_I"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Insufficient_Weight"/>
+                        <entry key="StringCell" type="xstring" value="Obesity_Type_III"/>
                     </config>
                 </config>
                 <config key="6">

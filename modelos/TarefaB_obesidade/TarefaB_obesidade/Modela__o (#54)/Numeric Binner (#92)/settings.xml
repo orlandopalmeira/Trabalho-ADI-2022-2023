@@ -6,30 +6,6 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <config key="Age">
-            <config key="Jovem_0">
-                <entry key="bin_name" type="xstring" value="Jovem"/>
-                <entry key="left_open" type="xboolean" value="true"/>
-                <entry key="left_value" type="xdouble" value="-Infinity"/>
-                <entry key="right_open" type="xboolean" value="true"/>
-                <entry key="right_value" type="xdouble" value="21.0"/>
-            </config>
-            <config key="Jovem Adulto_1">
-                <entry key="bin_name" type="xstring" value="Jovem Adulto"/>
-                <entry key="left_open" type="xboolean" value="false"/>
-                <entry key="left_value" type="xdouble" value="21.0"/>
-                <entry key="right_open" type="xboolean" value="true"/>
-                <entry key="right_value" type="xdouble" value="30.0"/>
-            </config>
-            <config key="Adulto_2">
-                <entry key="bin_name" type="xstring" value="Adulto"/>
-                <entry key="left_open" type="xboolean" value="false"/>
-                <entry key="left_value" type="xdouble" value="30.0"/>
-                <entry key="right_open" type="xboolean" value="true"/>
-                <entry key="right_value" type="xdouble" value="Infinity"/>
-            </config>
-        </config>
-        <entry key="Age_is_appended" type="xstring" isnull="true" value=""/>
         <config key="Year">
             <config key="1955-1965_0">
                 <entry key="bin_name" type="xstring" value="1955-1965"/>
@@ -73,18 +49,56 @@
                 <entry key="bin_name" type="xstring" value="Baixo"/>
                 <entry key="left_open" type="xboolean" value="true"/>
                 <entry key="left_value" type="xdouble" value="-Infinity"/>
-                <entry key="right_open" type="xboolean" value="true"/>
+                <entry key="right_open" type="xboolean" value="false"/>
+                <entry key="right_value" type="xdouble" value="1.6"/>
+            </config>
+            <config key="Médio_1">
+                <entry key="bin_name" type="xstring" value="Médio"/>
+                <entry key="left_open" type="xboolean" value="true"/>
+                <entry key="left_value" type="xdouble" value="1.6"/>
+                <entry key="right_open" type="xboolean" value="false"/>
                 <entry key="right_value" type="xdouble" value="1.7"/>
             </config>
-            <config key="Alto_1">
+            <config key="Alto_2">
                 <entry key="bin_name" type="xstring" value="Alto"/>
-                <entry key="left_open" type="xboolean" value="false"/>
+                <entry key="left_open" type="xboolean" value="true"/>
                 <entry key="left_value" type="xdouble" value="1.7"/>
+                <entry key="right_open" type="xboolean" value="false"/>
+                <entry key="right_value" type="xdouble" value="1.8"/>
+            </config>
+            <config key="Muito-Alto_3">
+                <entry key="bin_name" type="xstring" value="Muito-Alto"/>
+                <entry key="left_open" type="xboolean" value="true"/>
+                <entry key="left_value" type="xdouble" value="1.8"/>
                 <entry key="right_open" type="xboolean" value="true"/>
                 <entry key="right_value" type="xdouble" value="Infinity"/>
             </config>
         </config>
         <entry key="Height_is_appended" type="xstring" isnull="true" value=""/>
+        <config key="Age">
+            <config key="Jovem_0">
+                <entry key="bin_name" type="xstring" value="Jovem"/>
+                <entry key="left_open" type="xboolean" value="true"/>
+                <entry key="left_value" type="xdouble" value="-Infinity"/>
+                <entry key="right_open" type="xboolean" value="true"/>
+                <entry key="right_value" type="xdouble" value="22.0"/>
+            </config>
+            <config key="Jovem Adulto_1">
+                <entry key="bin_name" type="xstring" value="Jovem Adulto"/>
+                <entry key="left_open" type="xboolean" value="false"/>
+                <entry key="left_value" type="xdouble" value="22.0"/>
+                <entry key="right_open" type="xboolean" value="true"/>
+                <entry key="right_value" type="xdouble" value="29.0"/>
+            </config>
+            <config key="Adulto_2">
+                <entry key="bin_name" type="xstring" value="Adulto"/>
+                <entry key="left_open" type="xboolean" value="false"/>
+                <entry key="left_value" type="xdouble" value="29.0"/>
+                <entry key="right_open" type="xboolean" value="true"/>
+                <entry key="right_value" type="xdouble" value="Infinity"/>
+            </config>
+        </config>
+        <entry key="Age_is_appended" type="xstring" isnull="true" value=""/>
         <config key="Weight">
             <config key="B1:30-50_0">
                 <entry key="bin_name" type="xstring" value="B1:30-50"/>
@@ -139,9 +153,9 @@
         <entry key="Weight_is_appended" type="xstring" isnull="true" value=""/>
         <config key="binned_columns">
             <entry key="array-size" type="xint" value="4"/>
-            <entry key="0" type="xstring" value="Age"/>
-            <entry key="1" type="xstring" value="Year"/>
-            <entry key="2" type="xstring" value="Height"/>
+            <entry key="0" type="xstring" value="Year"/>
+            <entry key="1" type="xstring" value="Height"/>
+            <entry key="2" type="xstring" value="Age"/>
             <entry key="3" type="xstring" value="Weight"/>
         </config>
     </config>
@@ -186,6 +200,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="50391902-757c-471c-b1b6-0fbb2b44f7b4"/>
+        <entry key="file_store_id" type="xstring" value="2dd9a2c2-f616-45b1-ab65-7c315a6c38ea"/>
     </config>
 </config>
