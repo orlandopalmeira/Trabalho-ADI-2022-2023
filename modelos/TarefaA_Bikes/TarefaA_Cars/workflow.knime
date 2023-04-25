@@ -7,8 +7,8 @@
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="Pc"/>
         <entry key="authored-when" type="xstring" value="2023-04-15 22:29:32 +0100"/>
-        <entry key="lastEdited-by" type="xstring" value="anari"/>
-        <entry key="lastEdited-when" type="xstring" value="2023-04-24 15:59:41 +0100"/>
+        <entry key="lastEdited-by" type="xstring" value="Pc"/>
+        <entry key="lastEdited-when" type="xstring" value="2023-04-24 19:17:10 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
