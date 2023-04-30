@@ -20,7 +20,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="PieColName" type="xstring" value="boreratio"/>
+        <entry key="PieColName" type="xstring" value="name"/>
         <config key="aggrColumn_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -51,6 +51,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1a30084f-0562-44d7-95f3-3a3d6f4fea08"/>
+        <entry key="file_store_id" type="xstring" value="cc2cfad2-5595-4781-93ba-d4764cd444f0"/>
     </config>
 </config>

@@ -9,7 +9,7 @@
         <config key="column-filter">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="25"/>
+                <entry key="array-size" type="xint" value="26"/>
                 <entry key="0" type="xstring" value="symboling"/>
                 <entry key="1" type="xstring" value="name"/>
                 <entry key="2" type="xstring" value="fueltypes"/>
@@ -35,10 +35,12 @@
                 <entry key="22" type="xstring" value="citympg"/>
                 <entry key="23" type="xstring" value="highwaympg"/>
                 <entry key="24" type="xstring" value="price"/>
+                <entry key="25" type="xstring" value="Marca"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="1"/>
+                <entry key="array-size" type="xint" value="2"/>
                 <entry key="0" type="xstring" value="ID"/>
+                <entry key="1" type="xstring" value="split_1"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -80,12 +82,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 25"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 26"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="ce0e829d-317b-406e-b216-eb8362ff73a4"/>
+        <entry key="file_store_id" type="xstring" value="c9fd6cf8-fe6b-4a33-a382-6257b0e13a91"/>
     </config>
 </config>

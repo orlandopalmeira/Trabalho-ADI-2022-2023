@@ -1,83 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
     <entry key="spec_name" type="xstring" value="default"/>
-    <entry key="number_columns" type="xint" value="78"/>
+    <entry key="number_columns" type="xint" value="75"/>
     <config key="column_spec_0">
-        <entry key="column_name" type="xstring" value="ID"/>
-        <config key="element_names">
-            <entry key="array-size" type="xint" value="0"/>
-        </config>
-        <config key="column_type">
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
-        </config>
-        <config key="column_domain">
-            <config key="lower_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-                <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="1"/>
-                </config>
-            </config>
-            <config key="upper_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-                <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="205"/>
-                </config>
-            </config>
-        </config>
-        <config key="column_properties"/>
-        <config key="meta_data"/>
-    </config>
-    <config key="column_spec_1">
-        <entry key="column_name" type="xstring" value="Count (ID)"/>
-        <config key="element_names">
-            <entry key="array-size" type="xint" value="0"/>
-        </config>
-        <config key="column_type">
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
-        </config>
-        <config key="column_domain">
-            <config key="lower_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-                <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="1"/>
-                </config>
-            </config>
-            <config key="upper_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-                <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="1"/>
-                </config>
-            </config>
-        </config>
-        <config key="column_properties"/>
-        <config key="meta_data"/>
-    </config>
-    <config key="column_spec_2">
-        <entry key="column_name" type="xstring" value="Relative Frequency (ID)"/>
-        <config key="element_names">
-            <entry key="array-size" type="xint" value="0"/>
-        </config>
-        <config key="column_type">
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-        </config>
-        <config key="column_domain">
-            <config key="lower_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-                <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.0"/>
-                </config>
-            </config>
-            <config key="upper_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-                <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="1.0"/>
-                </config>
-            </config>
-        </config>
-        <config key="column_properties"/>
-        <config key="meta_data"/>
-    </config>
-    <config key="column_spec_3">
         <entry key="column_name" type="xstring" value="symboling"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -102,7 +27,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_4">
+    <config key="column_spec_1">
         <entry key="column_name" type="xstring" value="Count (symboling)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -127,7 +52,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_5">
+    <config key="column_spec_2">
         <entry key="column_name" type="xstring" value="Relative Frequency (symboling)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -152,7 +77,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_6">
+    <config key="column_spec_3">
         <entry key="column_name" type="xstring" value="name"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -164,7 +89,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_7">
+    <config key="column_spec_4">
         <entry key="column_name" type="xstring" value="Count (name)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -189,7 +114,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_8">
+    <config key="column_spec_5">
         <entry key="column_name" type="xstring" value="Relative Frequency (name)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -214,7 +139,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_9">
+    <config key="column_spec_6">
         <entry key="column_name" type="xstring" value="fueltypes"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -242,7 +167,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_10">
+    <config key="column_spec_7">
         <entry key="column_name" type="xstring" value="Count (fueltypes)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -267,7 +192,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_11">
+    <config key="column_spec_8">
         <entry key="column_name" type="xstring" value="Relative Frequency (fueltypes)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -292,7 +217,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_12">
+    <config key="column_spec_9">
         <entry key="column_name" type="xstring" value="aspiration"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -320,7 +245,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_13">
+    <config key="column_spec_10">
         <entry key="column_name" type="xstring" value="Count (aspiration)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -345,7 +270,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_14">
+    <config key="column_spec_11">
         <entry key="column_name" type="xstring" value="Relative Frequency (aspiration)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -370,7 +295,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_15">
+    <config key="column_spec_12">
         <entry key="column_name" type="xstring" value="doornumbers"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -398,7 +323,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_16">
+    <config key="column_spec_13">
         <entry key="column_name" type="xstring" value="Count (doornumbers)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -423,7 +348,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_17">
+    <config key="column_spec_14">
         <entry key="column_name" type="xstring" value="Relative Frequency (doornumbers)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -448,7 +373,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_18">
+    <config key="column_spec_15">
         <entry key="column_name" type="xstring" value="carbody"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -494,7 +419,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_19">
+    <config key="column_spec_16">
         <entry key="column_name" type="xstring" value="Count (carbody)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -519,7 +444,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_20">
+    <config key="column_spec_17">
         <entry key="column_name" type="xstring" value="Relative Frequency (carbody)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -544,7 +469,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_21">
+    <config key="column_spec_18">
         <entry key="column_name" type="xstring" value="drivewheels"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -578,7 +503,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_22">
+    <config key="column_spec_19">
         <entry key="column_name" type="xstring" value="Count (drivewheels)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -603,7 +528,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_23">
+    <config key="column_spec_20">
         <entry key="column_name" type="xstring" value="Relative Frequency (drivewheels)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -628,7 +553,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_24">
+    <config key="column_spec_21">
         <entry key="column_name" type="xstring" value="enginelocation"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -656,7 +581,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_25">
+    <config key="column_spec_22">
         <entry key="column_name" type="xstring" value="Count (enginelocation)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -681,7 +606,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_26">
+    <config key="column_spec_23">
         <entry key="column_name" type="xstring" value="Relative Frequency (enginelocation)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -706,7 +631,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_27">
+    <config key="column_spec_24">
         <entry key="column_name" type="xstring" value="wheelbase"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -731,7 +656,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_28">
+    <config key="column_spec_25">
         <entry key="column_name" type="xstring" value="Count (wheelbase)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -756,7 +681,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_29">
+    <config key="column_spec_26">
         <entry key="column_name" type="xstring" value="Relative Frequency (wheelbase)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -781,7 +706,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_30">
+    <config key="column_spec_27">
         <entry key="column_name" type="xstring" value="carlength"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -806,7 +731,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_31">
+    <config key="column_spec_28">
         <entry key="column_name" type="xstring" value="Count (carlength)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -831,7 +756,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_32">
+    <config key="column_spec_29">
         <entry key="column_name" type="xstring" value="Relative Frequency (carlength)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -856,7 +781,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_33">
+    <config key="column_spec_30">
         <entry key="column_name" type="xstring" value="carwidth"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -881,7 +806,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_34">
+    <config key="column_spec_31">
         <entry key="column_name" type="xstring" value="Count (carwidth)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -906,7 +831,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_35">
+    <config key="column_spec_32">
         <entry key="column_name" type="xstring" value="Relative Frequency (carwidth)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -931,7 +856,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_36">
+    <config key="column_spec_33">
         <entry key="column_name" type="xstring" value="carheight"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -956,7 +881,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_37">
+    <config key="column_spec_34">
         <entry key="column_name" type="xstring" value="Count (carheight)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -981,7 +906,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_38">
+    <config key="column_spec_35">
         <entry key="column_name" type="xstring" value="Relative Frequency (carheight)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1006,7 +931,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_39">
+    <config key="column_spec_36">
         <entry key="column_name" type="xstring" value="curbweight"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1031,7 +956,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_40">
+    <config key="column_spec_37">
         <entry key="column_name" type="xstring" value="Count (curbweight)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1056,7 +981,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_41">
+    <config key="column_spec_38">
         <entry key="column_name" type="xstring" value="Relative Frequency (curbweight)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1081,7 +1006,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_42">
+    <config key="column_spec_39">
         <entry key="column_name" type="xstring" value="enginetype"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1139,7 +1064,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_43">
+    <config key="column_spec_40">
         <entry key="column_name" type="xstring" value="Count (enginetype)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1164,7 +1089,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_44">
+    <config key="column_spec_41">
         <entry key="column_name" type="xstring" value="Relative Frequency (enginetype)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1189,7 +1114,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_45">
+    <config key="column_spec_42">
         <entry key="column_name" type="xstring" value="cylindernumber"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1247,7 +1172,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_46">
+    <config key="column_spec_43">
         <entry key="column_name" type="xstring" value="Count (cylindernumber)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1272,7 +1197,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_47">
+    <config key="column_spec_44">
         <entry key="column_name" type="xstring" value="Relative Frequency (cylindernumber)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1297,7 +1222,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_48">
+    <config key="column_spec_45">
         <entry key="column_name" type="xstring" value="enginesize"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1322,7 +1247,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_49">
+    <config key="column_spec_46">
         <entry key="column_name" type="xstring" value="Count (enginesize)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1347,7 +1272,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_50">
+    <config key="column_spec_47">
         <entry key="column_name" type="xstring" value="Relative Frequency (enginesize)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1372,7 +1297,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_51">
+    <config key="column_spec_48">
         <entry key="column_name" type="xstring" value="fuelsystem"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1436,7 +1361,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_52">
+    <config key="column_spec_49">
         <entry key="column_name" type="xstring" value="Count (fuelsystem)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1461,7 +1386,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_53">
+    <config key="column_spec_50">
         <entry key="column_name" type="xstring" value="Relative Frequency (fuelsystem)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1486,7 +1411,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_54">
+    <config key="column_spec_51">
         <entry key="column_name" type="xstring" value="boreratio"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1511,7 +1436,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_55">
+    <config key="column_spec_52">
         <entry key="column_name" type="xstring" value="Count (boreratio)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1536,7 +1461,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_56">
+    <config key="column_spec_53">
         <entry key="column_name" type="xstring" value="Relative Frequency (boreratio)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1561,7 +1486,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_57">
+    <config key="column_spec_54">
         <entry key="column_name" type="xstring" value="stroke"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1586,7 +1511,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_58">
+    <config key="column_spec_55">
         <entry key="column_name" type="xstring" value="Count (stroke)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1611,7 +1536,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_59">
+    <config key="column_spec_56">
         <entry key="column_name" type="xstring" value="Relative Frequency (stroke)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1636,7 +1561,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_60">
+    <config key="column_spec_57">
         <entry key="column_name" type="xstring" value="compressionratio"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1661,7 +1586,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_61">
+    <config key="column_spec_58">
         <entry key="column_name" type="xstring" value="Count (compressionratio)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1686,7 +1611,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_62">
+    <config key="column_spec_59">
         <entry key="column_name" type="xstring" value="Relative Frequency (compressionratio)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1711,7 +1636,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_63">
+    <config key="column_spec_60">
         <entry key="column_name" type="xstring" value="horsepower"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1736,7 +1661,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_64">
+    <config key="column_spec_61">
         <entry key="column_name" type="xstring" value="Count (horsepower)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1761,7 +1686,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_65">
+    <config key="column_spec_62">
         <entry key="column_name" type="xstring" value="Relative Frequency (horsepower)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1786,7 +1711,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_66">
+    <config key="column_spec_63">
         <entry key="column_name" type="xstring" value="peakrpm"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1811,7 +1736,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_67">
+    <config key="column_spec_64">
         <entry key="column_name" type="xstring" value="Count (peakrpm)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1836,7 +1761,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_68">
+    <config key="column_spec_65">
         <entry key="column_name" type="xstring" value="Relative Frequency (peakrpm)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1861,7 +1786,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_69">
+    <config key="column_spec_66">
         <entry key="column_name" type="xstring" value="citympg"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1886,7 +1811,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_70">
+    <config key="column_spec_67">
         <entry key="column_name" type="xstring" value="Count (citympg)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1911,7 +1836,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_71">
+    <config key="column_spec_68">
         <entry key="column_name" type="xstring" value="Relative Frequency (citympg)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1936,7 +1861,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_72">
+    <config key="column_spec_69">
         <entry key="column_name" type="xstring" value="highwaympg"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1961,7 +1886,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_73">
+    <config key="column_spec_70">
         <entry key="column_name" type="xstring" value="Count (highwaympg)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -1986,7 +1911,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_74">
+    <config key="column_spec_71">
         <entry key="column_name" type="xstring" value="Relative Frequency (highwaympg)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -2011,7 +1936,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_75">
+    <config key="column_spec_72">
         <entry key="column_name" type="xstring" value="price"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -2036,7 +1961,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_76">
+    <config key="column_spec_73">
         <entry key="column_name" type="xstring" value="Count (price)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -2061,7 +1986,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_77">
+    <config key="column_spec_74">
         <entry key="column_name" type="xstring" value="Relative Frequency (price)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>

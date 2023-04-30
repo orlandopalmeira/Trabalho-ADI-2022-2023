@@ -70,10 +70,6 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="1 column(s) were ignored due to missing domain information: [&quot;name&quot;] -- change the node configuration or use a Domain Calculator node to fix it"/>
-    </config>
     <entry key="factory" type="xstring" value="org.knime.base.node.mine.treeensemble2.node.gradientboosting.learner.regression.GradientBoostingRegressionLearnerNodeFactory2"/>
     <entry key="node-name" type="xstring" value="Gradient Boosted Trees Learner (Regression)"/>
     <entry key="node-bundle-name" type="xstring" value="Decisions Tree Ensembles for KNIME"/>

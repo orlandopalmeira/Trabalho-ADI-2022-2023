@@ -32,7 +32,7 @@
         <entry key="enableLassoSelection" type="xboolean" value="false"/>
         <entry key="chartTitle" type="xstring" value=""/>
         <entry key="chartSubtitle" type="xstring" value=""/>
-        <entry key="xCol" type="xstring" value="fueltypes"/>
+        <entry key="xCol" type="xstring" value="marca"/>
         <entry key="yCol" type="xstring" value="price"/>
         <entry key="maxRows" type="xint" value="2500"/>
         <entry key="selectionColumnName" type="xstring" value="Selected (Scatter Plot)"/>
@@ -150,6 +150,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="53004ab7-c1e1-418d-b8a1-e1bdcb444a19"/>
+        <entry key="file_store_id" type="xstring" value="3716289c-1c52-477e-8aae-3bae942e44c2"/>
     </config>
 </config>
