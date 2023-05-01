@@ -575,17 +575,18 @@ M3T1WMHFF3rcp55q30Q1AEvA4QNn7hrzA/1/Bqj5PdBbd068VeFDV0M1AABYEhF4
            stroke-width="2" font-family="&apos;Segoe UI&apos;"
            stroke-linecap="butt" stroke="rgb(150,150,150)">
             <path fill="none"
-                  d="M358 258 C360 258 364 258 366 258 C424 258 421 98 479 98 C481 98 485 98 487 98"
+                  d="M78 138 C80 138 84 138 86 138 C116 138 77 38 107 38 C122 38 144 38 159 38 C161 38 165 38 167 38"
                   fill-rule="evenodd" clip-path="url(#clipPath30)"/>
             <path fill="none"
                   d="M78 138 C80 138 84 138 86 138 C123 138 78 258 115 258 C170 258 244 258 299 258 C301 258 305 258 307 258"
                   clip-path="url(#clipPath30)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M78 138 C80 138 84 138 86 138 C116 138 77 38 107 38 C122 38 144 38 159 38 C161 38 165 38 167 38"
+                  d="M358 258 C360 258 364 258 366 258 C424 258 421 98 479 98 C481 98 485 98 487 98"
                   clip-path="url(#clipPath30)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M358 258 C360 258 364 258 366 258 C435 258 530 258 599 258 C601 258 605 258 607 258"
-                  clip-path="url(#clipPath30)" fill-rule="evenodd"/>
+                  stroke-width="3" clip-path="url(#clipPath30)"
+                  fill-rule="evenodd" stroke="rgb(75,75,75)"/>
         </g>
     </g>
 </svg>
