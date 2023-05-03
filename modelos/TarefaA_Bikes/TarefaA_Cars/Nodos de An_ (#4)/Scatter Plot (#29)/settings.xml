@@ -32,7 +32,7 @@
         <entry key="enableLassoSelection" type="xboolean" value="false"/>
         <entry key="chartTitle" type="xstring" value=""/>
         <entry key="chartSubtitle" type="xstring" value=""/>
-        <entry key="xCol" type="xstring" value="marca"/>
+        <entry key="xCol" type="xstring" value="price"/>
         <entry key="yCol" type="xstring" value="price"/>
         <entry key="maxRows" type="xint" value="2500"/>
         <entry key="selectionColumnName" type="xstring" value="Selected (Scatter Plot)"/>
@@ -150,6 +150,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3716289c-1c52-477e-8aae-3bae942e44c2"/>
+        <entry key="file_store_id" type="xstring" value="86e9b71d-a982-4964-88f0-5cdc5e2e2973"/>
     </config>
 </config>

@@ -1195,7 +1195,7 @@
         </config>
         <config key="connection_25">
             <entry key="sourceID" type="xint" value="92"/>
-            <entry key="destID" type="xint" value="105"/>
+            <entry key="destID" type="xint" value="104"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -1205,7 +1205,7 @@
         </config>
         <config key="connection_26">
             <entry key="sourceID" type="xint" value="92"/>
-            <entry key="destID" type="xint" value="107"/>
+            <entry key="destID" type="xint" value="105"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -1215,7 +1215,7 @@
         </config>
         <config key="connection_27">
             <entry key="sourceID" type="xint" value="92"/>
-            <entry key="destID" type="xint" value="104"/>
+            <entry key="destID" type="xint" value="107"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -1395,9 +1395,9 @@
         </config>
         <config key="connection_45">
             <entry key="sourceID" type="xint" value="126"/>
-            <entry key="destID" type="xint" value="135"/>
-            <entry key="sourcePort" type="xint" value="2"/>
-            <entry key="destPort" type="xint" value="2"/>
+            <entry key="destID" type="xint" value="137"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
             <config key="ui_settings">
                 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
@@ -1405,9 +1405,9 @@
         </config>
         <config key="connection_46">
             <entry key="sourceID" type="xint" value="126"/>
-            <entry key="destID" type="xint" value="137"/>
-            <entry key="sourcePort" type="xint" value="1"/>
-            <entry key="destPort" type="xint" value="1"/>
+            <entry key="destID" type="xint" value="135"/>
+            <entry key="sourcePort" type="xint" value="2"/>
+            <entry key="destPort" type="xint" value="2"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
             <config key="ui_settings">
                 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
@@ -1455,9 +1455,9 @@
         </config>
         <config key="connection_51">
             <entry key="sourceID" type="xint" value="132"/>
-            <entry key="destID" type="xint" value="124"/>
-            <entry key="sourcePort" type="xint" value="1"/>
-            <entry key="destPort" type="xint" value="1"/>
+            <entry key="destID" type="xint" value="133"/>
+            <entry key="sourcePort" type="xint" value="2"/>
+            <entry key="destPort" type="xint" value="2"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
             <config key="ui_settings">
                 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
@@ -1465,9 +1465,9 @@
         </config>
         <config key="connection_52">
             <entry key="sourceID" type="xint" value="132"/>
-            <entry key="destID" type="xint" value="133"/>
-            <entry key="sourcePort" type="xint" value="2"/>
-            <entry key="destPort" type="xint" value="2"/>
+            <entry key="destID" type="xint" value="124"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
             <config key="ui_settings">
                 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
@@ -1525,7 +1525,7 @@
         </config>
         <config key="connection_58">
             <entry key="sourceID" type="xint" value="138"/>
-            <entry key="destID" type="xint" value="126"/>
+            <entry key="destID" type="xint" value="128"/>
             <entry key="sourcePort" type="xint" value="0"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
@@ -1537,7 +1537,7 @@
         </config>
         <config key="connection_60">
             <entry key="sourceID" type="xint" value="138"/>
-            <entry key="destID" type="xint" value="128"/>
+            <entry key="destID" type="xint" value="126"/>
             <entry key="sourcePort" type="xint" value="0"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
@@ -1555,12 +1555,12 @@
         </config>
     </config>
     <config key="workflow_editor_settings">
-        <entry key="workflow.editor.snapToGrid" type="xboolean" value="false"/>
+        <entry key="workflow.editor.snapToGrid" type="xboolean" value="true"/>
         <entry key="workflow.editor.ShowGrid" type="xboolean" value="false"/>
-        <entry key="workflow.editor.gridX" type="xint" value="-1"/>
-        <entry key="workflow.editor.gridY" type="xint" value="-1"/>
+        <entry key="workflow.editor.gridX" type="xint" value="20"/>
+        <entry key="workflow.editor.gridY" type="xint" value="20"/>
         <entry key="workflow.editor.zoomLevel" type="xdouble" value="1.0"/>
-        <entry key="workflow.editor.curvedConnections" type="xboolean" value="false"/>
-        <entry key="workflow.editor.connectionWidth" type="xint" value="1"/>
+        <entry key="workflow.editor.curvedConnections" type="xboolean" value="true"/>
+        <entry key="workflow.editor.connectionWidth" type="xint" value="2"/>
     </config>
 </config>

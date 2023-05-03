@@ -9,7 +9,7 @@
         <config key="column-filter">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="25"/>
+                <entry key="array-size" type="xint" value="26"/>
                 <entry key="0" type="xstring" value="symboling"/>
                 <entry key="1" type="xstring" value="name"/>
                 <entry key="2" type="xstring" value="fueltypes"/>
@@ -35,6 +35,7 @@
                 <entry key="22" type="xstring" value="citympg"/>
                 <entry key="23" type="xstring" value="highwaympg"/>
                 <entry key="24" type="xstring" value="price"/>
+                <entry key="25" type="xstring" value="marca"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="0"/>
@@ -85,6 +86,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="85f40139-819c-480a-8748-84afde57e3bb"/>
+        <entry key="file_store_id" type="xstring" value="4657393b-2488-4dd4-88ff-e5f077797d6a"/>
     </config>
 </config>
