@@ -6,6 +6,11 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <config key="activation_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="activation" type="xstring" value="ReLU"/>
         <config key="number_of_outputs_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -21,11 +26,6 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="weight_init" type="xstring" value="RELU"/>
-        <config key="activation_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="activation" type="xstring" value="ReLU"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -56,6 +56,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="cb243c3f-cd1e-4185-902c-87962acc1489"/>
+        <entry key="file_store_id" type="xstring" value="3139c221-dd48-4e7c-8e34-8cb2563b1a23"/>
     </config>
 </config>

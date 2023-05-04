@@ -10,7 +10,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="training_iterations" type="xint" value="5"/>
+        <entry key="training_iterations" type="xint" value="25"/>
         <config key="optimization_algorithm_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -353,6 +353,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="90499e74-6d98-40e0-a4d8-2311bf0906bf"/>
+        <entry key="file_store_id" type="xstring" value="467373ca-3478-4fa7-bd62-429d51fd1622"/>
     </config>
 </config>
