@@ -7,7 +7,7 @@
     </config>
     <config key="model">
         <entry key="targetColumn" type="xstring" value="price"/>
-        <entry key="seed" type="xstring" value="1683108599996"/>
+        <entry key="seed" type="xstring" value="1683234108915"/>
         <entry key="maxLevels" type="xint" value="-1"/>
         <entry key="minNodeSize" type="xint" value="-1"/>
         <entry key="minChildSize" type="xint" value="-1"/>
