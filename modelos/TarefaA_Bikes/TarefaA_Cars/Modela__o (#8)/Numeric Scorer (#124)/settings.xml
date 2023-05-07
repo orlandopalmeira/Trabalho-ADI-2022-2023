@@ -48,43 +48,43 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="R^2"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="0.8432074234456893"/>
+            <entry key="value" type="xdouble" value="0.9419836819548204"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="adjusted R^2"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="0.8432074234456893"/>
+            <entry key="value" type="xdouble" value="0.9419836819548204"/>
         </config>
         <config key="Variable_9">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="mean absolute error"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="2824.052853658536"/>
+            <entry key="value" type="xdouble" value="1604.1505949280347"/>
         </config>
         <config key="Variable_10">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="mean squared error"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="1.547253563479946E7"/>
+            <entry key="value" type="xdouble" value="5725140.616226582"/>
         </config>
         <config key="Variable_11">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="root mean squared error"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="3933.5144126848527"/>
+            <entry key="value" type="xdouble" value="2392.726607079585"/>
         </config>
         <config key="Variable_12">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="mean signed difference"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="733.5487886178862"/>
+            <entry key="value" type="xdouble" value="208.2956355990538"/>
         </config>
         <config key="Variable_13">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="mean absolute percentage error"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="0.2194744655367725"/>
+            <entry key="value" type="xdouble" value="0.11409105544966919"/>
         </config>
     </config>
     <config key="internal_node_subsettings">

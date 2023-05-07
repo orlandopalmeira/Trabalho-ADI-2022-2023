@@ -660,7 +660,20 @@
         <config key="column_type">
             <entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
         </config>
-        <config key="column_domain"/>
+        <config key="column_domain">
+            <config key="lower_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                <config key="org.knime.core.data.def.DoubleCell">
+                    <entry key="DoubleCell" type="xdouble" value="-299817.380777359"/>
+                </config>
+            </config>
+            <config key="upper_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                <config key="org.knime.core.data.def.DoubleCell">
+                    <entry key="DoubleCell" type="xdouble" value="-134121.80605125427"/>
+                </config>
+            </config>
+        </config>
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>

@@ -36,7 +36,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="65"/>
+            <entry key="value" type="xint" value="74"/>
         </config>
         <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
@@ -141,12 +141,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 13"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 11"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b4150d3b-2b3e-4d60-a013-26624b4b751a"/>
+        <entry key="file_store_id" type="xstring" value="c58dffaa-eba8-4e3a-bed1-acce42046622"/>
     </config>
 </config>

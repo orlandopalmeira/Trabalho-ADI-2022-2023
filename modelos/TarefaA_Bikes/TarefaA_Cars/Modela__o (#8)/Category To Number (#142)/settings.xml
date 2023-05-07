@@ -45,7 +45,7 @@
         </config>
         <entry key="append_columns" type="xboolean" value="false"/>
         <entry key="column_suffix" type="xstring" value=" (to number)"/>
-        <entry key="start_index" type="xint" value="0"/>
+        <entry key="start_index" type="xint" value="1"/>
         <entry key="increment" type="xint" value="1"/>
         <entry key="max_categories" type="xint" value="200"/>
         <config key="default_value">
@@ -93,6 +93,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b7311d97-7289-4a1d-9e75-6418a65efa6c"/>
+        <entry key="file_store_id" type="xstring" value="c0430261-dfbd-4cd9-b074-22da22f900b8"/>
     </config>
 </config>
