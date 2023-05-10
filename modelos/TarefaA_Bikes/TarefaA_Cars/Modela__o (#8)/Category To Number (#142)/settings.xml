@@ -57,6 +57,20 @@
             <config key="org.knime.core.data.MissingCell"/>
         </config>
     </config>
+    <config key="nodeAnnotation">
+        <entry key="text" type="xstring" value="String to Int"/>
+        <entry key="bgcolor" type="xint" value="16777215"/>
+        <entry key="x-coordinate" type="xint" value="167"/>
+        <entry key="y-coordinate" type="xint" value="1260"/>
+        <entry key="width" type="xint" value="106"/>
+        <entry key="height" type="xint" value="15"/>
+        <entry key="alignment" type="xstring" value="CENTER"/>
+        <entry key="borderSize" type="xint" value="0"/>
+        <entry key="borderColor" type="xint" value="16777215"/>
+        <entry key="defFontSize" type="xint" value="9"/>
+        <entry key="annotation-version" type="xint" value="20151123"/>
+        <config key="styles"/>
+    </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.base.node.preproc.colconvert.categorytonumber2.CategoryToNumberNodeFactory2"/>
@@ -93,6 +107,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c0430261-dfbd-4cd9-b074-22da22f900b8"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
