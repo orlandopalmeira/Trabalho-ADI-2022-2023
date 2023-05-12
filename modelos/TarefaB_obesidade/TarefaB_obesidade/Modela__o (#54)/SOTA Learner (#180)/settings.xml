@@ -7,11 +7,11 @@
     </config>
     <config key="model">
         <entry key="LrWinner" type="xdouble" value="0.1"/>
-        <entry key="LrSister" type="xdouble" value="0.01"/>
         <entry key="LrAncestor" type="xdouble" value="0.05"/>
+        <entry key="LrSister" type="xdouble" value="0.01"/>
         <entry key="MinError" type="xdouble" value="0.1"/>
-        <entry key="Variability" type="xdouble" value="0.0"/>
         <entry key="Resource" type="xdouble" value="0.01"/>
+        <entry key="Variability" type="xdouble" value="0.0"/>
         <entry key="UseVar" type="xboolean" value="false"/>
         <entry key="UseDist" type="xstring" value="Euclidean"/>
         <entry key="HFD" type="xboolean" value="false"/>
@@ -70,6 +70,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="f556a6bf-ddfd-4005-af36-471b34992e83"/>
+        <entry key="file_store_id" type="xstring" value="a8b91541-a3db-4b7c-af35-bf911181c2d1"/>
     </config>
 </config>

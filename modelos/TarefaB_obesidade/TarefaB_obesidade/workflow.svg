@@ -670,19 +670,19 @@ jl8nXjvRXPsM2bUA7JJuyuP7diUAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
            stroke-width="2" font-family="&apos;Segoe UI&apos;"
            stroke-linecap="butt" stroke="rgb(150,150,150)">
             <path fill="none"
-                  d="M78 178 C80 178 84 178 86 178 C129 178 78 38 121 38 C156 38 204 38 239 38 C241 38 245 38 247 38"
+                  d="M78 178 C80 178 84 178 86 178 C131 178 194 178 239 178 C241 178 245 178 247 178"
                   fill-rule="evenodd" clip-path="url(#clipPath35)"/>
             <path fill="none"
                   d="M298 178 C300 178 304 178 306 178 C356 178 422 153 472 153 C474 153 478 153 480 153"
                   clip-path="url(#clipPath35)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M531 153 C533 153 537 153 539 153 C569 153 609 138 639 138 C641 138 645 138 647 138"
-                  clip-path="url(#clipPath35)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M78 178 C80 178 84 178 86 178 C131 178 194 178 239 178 C241 178 245 178 247 178"
-                  clip-path="url(#clipPath35)" fill-rule="evenodd"/>
-            <path fill="none"
                   d="M298 178 C300 178 304 178 306 178 C372 178 413 318 479 318 C481 318 485 318 487 318"
+                  clip-path="url(#clipPath35)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M78 178 C80 178 84 178 86 178 C129 178 78 38 121 38 C156 38 204 38 239 38 C241 38 245 38 247 38"
+                  clip-path="url(#clipPath35)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M531 153 C533 153 537 153 539 153 C569 153 609 138 639 138 C641 138 645 138 647 138"
                   clip-path="url(#clipPath35)" fill-rule="evenodd"/>
         </g>
     </g>

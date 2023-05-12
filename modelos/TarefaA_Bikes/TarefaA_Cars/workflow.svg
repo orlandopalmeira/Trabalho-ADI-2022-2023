@@ -102,7 +102,7 @@
                 <path d="M618 253 L645 253 L645 264 L618 264 L618 253 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath30">
-                <path d="M-1 -1 L1455 -1 L1455 951 L-1 951 L-1 -1 Z"/>
+                <path d="M-1 -1 L1433 -1 L1433 941 L-1 941 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g fill="white" stroke-miterlimit="0" stroke-width="0"
@@ -575,16 +575,16 @@ M3T1WMHFF3rcp55q30Q1AEvA4QNn7hrzA/1/Bqj5PdBbd068VeFDV0M1AABYEhF4
            stroke-width="2" font-family="&apos;Segoe UI&apos;"
            stroke-linecap="butt" stroke="rgb(150,150,150)">
             <path fill="none"
-                  d="M78 138 C80 138 84 138 86 138 C124 138 97 258 135 258 C190 258 264 258 319 258 C321 258 325 258 327 258"
+                  d="M378 258 C380 258 384 258 386 258 C444 258 441 98 499 98 C501 98 505 98 507 98"
                   fill-rule="evenodd" clip-path="url(#clipPath30)"/>
             <path fill="none"
-                  d="M78 138 C80 138 84 138 86 138 C118 138 95 38 127 38 C142 38 164 38 179 38 C181 38 185 38 187 38"
-                  clip-path="url(#clipPath30)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M378 258 C380 258 384 258 386 258 C444 258 441 98 499 98 C501 98 505 98 507 98"
-                  clip-path="url(#clipPath30)" fill-rule="evenodd"/>
-            <path fill="none"
                   d="M378 258 C380 258 384 258 386 258 C455 258 550 258 619 258 C621 258 625 258 627 258"
+                  clip-path="url(#clipPath30)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M78 138 C80 138 84 138 86 138 C124 138 97 258 135 258 C190 258 264 258 319 258 C321 258 325 258 327 258"
+                  clip-path="url(#clipPath30)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M78 138 C80 138 84 138 86 138 C118 138 95 38 127 38 C142 38 164 38 179 38 C181 38 185 38 187 38"
                   clip-path="url(#clipPath30)" fill-rule="evenodd"/>
         </g>
     </g>

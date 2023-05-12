@@ -29,7 +29,7 @@
     <entry key="gridColor" type="xstring" value="rgba(230,230,230,1.0)"/>
     <entry key="hasDataset" type="xboolean" value="true"/>
     <config key="dataset">
-        <entry key="tableID" type="xstring" value="4d71f86f-271a-4f5d-96ac-206cabb8fa03"/>
+        <entry key="tableID" type="xstring" value="be5fe490-87b9-425e-a23b-ed727b7301ae"/>
         <config key="columnKeys">
             <entry key="array-size" type="xint" value="26"/>
             <entry key="0" type="xstring" value="symboling"/>
