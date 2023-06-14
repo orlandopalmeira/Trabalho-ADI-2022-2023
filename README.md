@@ -16,7 +16,7 @@
 
 </div>
 
-### Nota: X / 20
+### Nota: 17.2 / 20
 
 <h3><i>Keywords</i></h3>
 ADI, Aprendizagem e Decisão Inteligentes , aprendizagem e decisao inteligentes, uminho, miei, lei, engenharia informatica
